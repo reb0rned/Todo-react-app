@@ -19,7 +19,7 @@ The project follows modern best practices, including component-based architectur
 - **Fetch API** – For communicating with backend (JSONPlaceholder or custom API)  
 - **SCSS / CSS Modules** – For styling the app  
 - **React Hooks** – For state and lifecycle management  
-- **Vite / CRA / Webpack** – (Укажи сборщик, если хочешь)
+- **Vite
 
 ## Preview  
 🔗 [DEMO LINK](https://reb0rned.github.io/react_todo-app-with-api/)
